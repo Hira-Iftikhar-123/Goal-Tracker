@@ -17,7 +17,7 @@ A clean and animated React app to help you stay productive by tracking daily goa
 
 ## Preview
 
-![App Preview](../goals-tracker/public/Screenshot.png)
+![App Preview](public/Screenshot.png)
 
 ---
 
